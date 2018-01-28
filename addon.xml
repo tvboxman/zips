@@ -11,7 +11,7 @@
   <extension point="xbmc.service" library="service.py" start="startup">
   </extension>
   <extension point="xbmc.addon.metadata">
-  	<summary>TVBOXMAN NEWS & UPDATES</summary>
+  	<summary>TVBOXMAN NEWS / UPDATES</summary>
   	<description>Receive Important TVBOXMAN Notifications. Unsubscribe within Add-on Settings.</description>
   	<disclaimer>We take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
   	<language>en</language>
